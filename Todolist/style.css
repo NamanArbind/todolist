@@ -1,0 +1,18 @@
+#ultasks li.done
+{
+    text-decoration: line-through;
+    color: #6c757d;
+}
+#ultasks
+{
+    cursor: pointer;
+}
+
+h1{
+    font-weight: bolder;
+    text-decoration: underline;
+}
+#inpnewTask
+{
+    background-color:#ff7676;
+}
